@@ -1,0 +1,24 @@
+package com.syntax.class07;
+
+import java.util.Scanner;
+
+public class NestedIf {
+
+	public static void main(String[] args) {
+		String pass="pass123";
+		double accountBalance=1000;
+		Scanner scan=new Scanner(System.in);
+		double transferAmount=500;
+		System.out.println("Welcome to Syntax please enter your password");
+        pass=scan.nextLine();
+        
+        if("pass123".equals(pass)) {
+        	System.out.println("Please enter the amount");
+        	transferAmount=scan.nextDouble();
+        	
+        }else {
+        	System.out.println("Sorry try again Invalid cred.");
+        }
+	}
+
+}

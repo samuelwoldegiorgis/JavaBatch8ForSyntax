@@ -1,0 +1,19 @@
+package com.replprojects.com;
+
+import java.util.Scanner;
+
+public class projects1 {
+	
+	 boolean score=true;
+
+	public static void main(String[] args) {
+		Scanner scan=new Scanner(System.in);
+		   System.out.println("Do you need a loan?");
+		  boolean score=scan.nextBoolean();
+		  System.out.println("What is your credit score");
+	
+		  
+		
+	}
+	}
+

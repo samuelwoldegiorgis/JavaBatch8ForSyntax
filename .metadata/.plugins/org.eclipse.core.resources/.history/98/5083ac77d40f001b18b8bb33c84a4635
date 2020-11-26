@@ -1,0 +1,28 @@
+package com.replprojects.com;
+
+import java.util.Scanner;
+
+public class projects1 {
+
+	public static void main(String[] args) {
+		Scanner scan=new Scanner(System.in);
+		   System.out.println("Do you need a loan?");
+		  boolean score=scan.nextBoolean();
+		  System.out.println("What is your credit score");
+	
+		   boolean score=true;
+		    
+		   if (score <= 600) {
+			   eligibility=
+		           System.out.println(" Not eligible");
+		
+		   }else if (score 600>= && <=700) {
+		    	 System.out.println("May be eligible");
+	      } else if (score 701> && <800) {
+		         System.out.println("Eligible"); {
+		  }else (score>801) {
+			System.out.println("Definitely eligible");
+		}
+	}
+	}
+}
