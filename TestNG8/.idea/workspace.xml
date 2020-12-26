@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="21cb83be-c158-4684-b5cb-a3a4ff8b1826" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNG8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drivers/chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drivers/geckodriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestNG8/com/syntax/class01/TestNGIntro.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class01/TestNGIntro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGB8/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGB8/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGB8/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGB8/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGB8/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGB8/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGB8/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGB8/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGB8/TestNGB8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGB8/drivers/chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGB8/drivers/geckodriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGB8/out/production/TestNGB8/com/syntax/class01/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGB8/out/production/TestNGB8/com/syntax/class01/TestNGIntro.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGB8/src/com/syntax/class01/Logintest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGB8/src/com/syntax/class01/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGB8/src/com/syntax/class01/PreAndPostConditionAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGB8/src/com/syntax/class01/TestNGIntro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGB8/src/com/syntax/class02/HW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGB8/src/com/syntax/class02/SoftAssertionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGB8/src/com/syntax/class02/TestNGnotes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGB8/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGBatch8/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGBatch8/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGBatch8/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGBatch8/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGBatch8/Drivers/chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGBatch8/Drivers/geckodriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGBatch8/TestNGBatch8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGBatch8/out/production/TestNGBatch8/com/syntax/FirstTestNG.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGBatch8/out/production/TestNGBatch8/com/syntax/class01/Logintest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGBatch8/out/production/TestNGBatch8/com/syntax/class01/PreAndPostConditionAnnotation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGBatch8/out/production/TestNGBatch8/com/syntax/class01/TestNGIntro.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGBatch8/out/production/TestNGBatch8/com/syntax/class02/DependOnDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGBatch8/out/production/TestNGBatch8/com/syntax/class02/HW.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGBatch8/out/production/TestNGBatch8/com/syntax/class02/SoftAssertionDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGBatch8/src/com/syntax/FirstTestNG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGBatch8/src/com/syntax/class01/Logintest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGBatch8/src/com/syntax/class01/PreAndPostConditionAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGBatch8/src/com/syntax/class01/TestNGIntro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGBatch8/src/com/syntax/class02/DependOnDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGBatch8/src/com/syntax/class02/HW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGBatch8/src/com/syntax/class02/SoftAssertionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGBatch8/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testng8Batch/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testng8Batch/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testng8Batch/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testng8Batch/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testng8Batch/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testng8Batch/Testng8Batch.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testng8Batch/drivers/chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testng8Batch/drivers/geckodriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testng8Batch/out/production/Testng8Batch/class01/Testng.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testng8Batch/src/class01/Logintest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testng8Batch/src/class01/PreAndPostConditioinAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testng8Batch/src/class01/TestNGIntro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testng8Batch/src/class01/Testng.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testng8Batch/src/class02/DependOnDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testng8Batch/src/class02/HW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testng8Batch/src/class02/SoftAssertionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testng8Batch/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/src/com/syntax/class07/AdvancedWindowHandling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/src/com/syntax/class07/ImplicitWaitDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/src/com/syntax/class07/SimpleWindowsHandling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/src/com/syntax/class08/ExplicitWaitHandling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/src/com/syntax/class08/FluentWaitDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/src/com/syntax/seleniumReviewClass03/AlertReview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/src/com/syntax/seleniumReviewClass03/FrameReview.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBatch88Project/JavaBatch8Project" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBatch88Project/JavaBatch8Project" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1mAfr8YSc6bUgQzfQ95SXobyhYJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/drivers" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\asmarabella\eclipse-workspace\JavaBatch8\TestNG8\drivers" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.TestNGIntro (1)">
+    <configuration name="TestNGIntro (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNG8" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.syntax.class01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.syntax.class01" />
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class01.TestNGIntro" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea C:\Users\asmarabella\eclipse-workspace\JavaBatch8\TestNG8\drivers" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestNGIntro" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNG8" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.syntax.class01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.syntax.class01" />
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class01.TestNGIntro" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestNGIntro.sayHello" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNG8" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.syntax.class01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.syntax.class01" />
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class01.TestNGIntro" />
+      <option name="METHOD_NAME" value="sayHello" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea C:\Users\asmarabella\eclipse-workspace\JavaBatch8\TestNG8\drivers" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea C:\Users\asmarabella\eclipse-workspace\JavaBatch8\TestNG8\drivers" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.TestNGIntro" />
+      <item itemvalue="TestNG.TestNGIntro.sayHello" />
+      <item itemvalue="TestNG.TestNGIntro (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TestNGIntro (1)" />
+        <item itemvalue="TestNG.TestNGIntro.sayHello" />
+        <item itemvalue="TestNG.TestNGIntro" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="21cb83be-c158-4684-b5cb-a3a4ff8b1826" name="Default Changelist" comment="" />
+      <created>1608941517751</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608941517751</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
