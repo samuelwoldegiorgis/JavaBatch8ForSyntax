@@ -20,85 +20,66 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e75d6fb3-f843-4458-9f7b-69bb3c45ecb7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../TestNG8/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNG8/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNG8/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNG8/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNG8/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNG8/TestNG8.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNG8/drivers/chromedriver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNG8/drivers/geckodriver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNG8/out/production/TestNG8/com/syntax/class01/TestNGIntro.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNG8/src/com/syntax/class01/TestNGIntro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNG8/testng.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNGB8/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNGB8/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNGB8/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNGB8/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNGB8/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNGB8/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNGB8/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNGB8/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNGB8/TestNGB8.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNGB8/drivers/chromedriver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNGB8/drivers/geckodriver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNGB8/out/production/TestNGB8/com/syntax/class01/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNGB8/out/production/TestNGB8/com/syntax/class01/TestNGIntro.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNGB8/src/com/syntax/class01/Logintest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNGB8/src/com/syntax/class01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNGB8/src/com/syntax/class01/PreAndPostConditionAnnotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNGB8/src/com/syntax/class01/TestNGIntro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNGB8/src/com/syntax/class02/HW.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNGB8/src/com/syntax/class02/SoftAssertionDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNGB8/src/com/syntax/class02/TestNGnotes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNGB8/testng.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNGBatch8/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNGBatch8/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNGBatch8/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNGBatch8/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNGBatch8/Drivers/chromedriver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNGBatch8/Drivers/geckodriver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNGBatch8/TestNGBatch8.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNGBatch8/out/production/TestNGBatch8/com/syntax/FirstTestNG.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNGBatch8/out/production/TestNGBatch8/com/syntax/class01/Logintest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNGBatch8/out/production/TestNGBatch8/com/syntax/class01/PreAndPostConditionAnnotation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNGBatch8/out/production/TestNGBatch8/com/syntax/class01/TestNGIntro.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNGBatch8/out/production/TestNGBatch8/com/syntax/class02/DependOnDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNGBatch8/out/production/TestNGBatch8/com/syntax/class02/HW.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNGBatch8/out/production/TestNGBatch8/com/syntax/class02/SoftAssertionDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNGBatch8/src/com/syntax/FirstTestNG.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNGBatch8/src/com/syntax/class01/Logintest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNGBatch8/src/com/syntax/class01/PreAndPostConditionAnnotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNGBatch8/src/com/syntax/class01/TestNGIntro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNGBatch8/src/com/syntax/class02/DependOnDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNGBatch8/src/com/syntax/class02/HW.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNGBatch8/src/com/syntax/class02/SoftAssertionDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNGBatch8/testng.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Testng8Batch.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/drivers/chromedriver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/drivers/geckodriver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Testng8Batch/class01/Testng.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class01/Logintest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class01/PreAndPostConditioinAnnotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class01/TestNGIntro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class01/Testng.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class02/DependOnDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class02/HW.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class02/SoftAssertionDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/src/com/syntax/class07/AdvancedWindowHandling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/src/com/syntax/class07/ImplicitWaitDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/src/com/syntax/class07/SimpleWindowsHandling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/src/com/syntax/class08/ExplicitWaitHandling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/src/com/syntax/class08/FluentWaitDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/src/com/syntax/seleniumReviewClass03/AlertReview.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/src/com/syntax/seleniumReviewClass03/FrameReview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class03/DataProviderDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class03/SoftAssertionModified.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class04/HW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class04/Listners.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/config/.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/out/production/seleniumBEight/com/syntax/class01/firstSeleniumClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/out/production/seleniumBEight/com/syntax/class02/LocatingElements.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/out/production/seleniumBEight/com/syntax/class02/Recap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/out/production/seleniumBEight/com/syntax/class02/TaskOne.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/out/production/seleniumBEight/com/syntax/class02/WebOrdersTask.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/out/production/seleniumBEight/com/syntax/class04/ClearCommand.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/out/production/seleniumBEight/com/syntax/class04/CssSelectorDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/out/production/seleniumBEight/com/syntax/class04/ElementCommands.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/out/production/seleniumBEight/com/syntax/class04/GetAllLinksFromEbay.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/out/production/seleniumBEight/com/syntax/class05/CheckBoxDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/out/production/seleniumBEight/com/syntax/class05/HandlingDropdowns.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/out/production/seleniumBEight/com/syntax/class06/HandlingAlerts.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/out/production/seleniumBEight/com/syntax/class06/HandlingFrames.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/out/production/seleniumBEight/com/syntax/class07/AdvancedWindowHandling.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/out/production/seleniumBEight/com/syntax/class07/ImplicitWaitDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/out/production/seleniumBEight/com/syntax/class07/SimpleWindowsHandling.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/out/production/seleniumBEight/com/syntax/class08/ExplicitWaitHandling.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/out/production/seleniumBEight/com/syntax/class08/FluentWaitDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/out/production/seleniumBEight/com/syntax/class09/HandlingCalendars1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/out/production/seleniumBEight/com/syntax/class09/HandlingPagination.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/out/production/seleniumBEight/com/syntax/class09/WebTablesWithPagination.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/out/production/seleniumBEight/com/syntax/firstSeleniumClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/out/production/seleniumBEight/com/syntax/seleniumReviewClass03/AlertReview.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/out/production/seleniumBEight/com/syntax/seleniumReviewClass03/FrameReview.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/out/production/seleniumBEight/com/syntax/utils/CommonMethods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/out/production/seleniumBEight/com/syntax/utils/ConfigsReader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/src/com/syntax/Notes/ClassNote10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/src/com/syntax/class09/HandlingCalendars1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/src/com/syntax/class09/HandlingPagination.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/src/com/syntax/class09/WebTablesWithPagination.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/src/com/syntax/class10/CalendarHandling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/src/com/syntax/class10/DragAndDropDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/src/com/syntax/class10/TakingScreenshots.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/src/com/syntax/class10/WorkingWithKeys.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/src/com/syntax/utils/CommonMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumBEight/src/com/syntax/utils/ConfigsReader.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JavaBatch88Project/JavaBatch8Project" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBatch88Project/JavaBatch8Project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Testng8Batch/class02/HW.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Testng8Batch/class02/HW.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class01/Logintest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class01/Logintest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class01/PreAndPostConditioinAnnotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class01/PreAndPostConditioinAnnotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class01/TestNGIntro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class01/TestNGIntro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class01/Testng.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class01/Testng.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class02/DependOnDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class02/DependOnDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class02/HW.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class02/HW.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class02/SoftAssertionDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class02/SoftAssertionDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.seleniumBEight/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../com.seleniumBEight/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.seleniumBEight/out/production/com.seleniumBEight/com/syntax/class01/firstSeleniumClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.seleniumBEight/out/production/com.seleniumBEight/com/syntax/class02/LocatingElements.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.seleniumBEight/out/production/com.seleniumBEight/com/syntax/class02/Recap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.seleniumBEight/out/production/com.seleniumBEight/com/syntax/class02/TaskOne.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.seleniumBEight/out/production/com.seleniumBEight/com/syntax/firstSeleniumClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.seleniumBEight/seleniumBEight.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../com.seleniumBEight/seleniumBEight.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +94,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1mArHQk7cq3ZkFgAfJTz1tcW2xs" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -134,23 +115,26 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="src" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\asmarabella\eclipse-workspace\JavaBatch8\Testng8Batch\drivers" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.DependOnDemo">
+  <component name="RunManager" selected="TestNG.PreAndPostConditioinAnnotation">
     <configuration name="DependOnDemo" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Testng8Batch" />
       <useClassPathOnly />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class02.*" />
+          <option name="PATTERN" value="com.syntax.class02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="SUITE_NAME" value="" />
       <option name="PACKAGE_NAME" value="class02" />
-      <option name="MAIN_CLASS_NAME" value="class02.DependOnDemo" />
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class02.DependOnDemo" />
       <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
@@ -171,13 +155,13 @@
       <useClassPathOnly />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class02.*" />
+          <option name="PATTERN" value="com.syntax.class02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="SUITE_NAME" value="" />
       <option name="PACKAGE_NAME" value="class02" />
-      <option name="MAIN_CLASS_NAME" value="class02.HW" />
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class02.HW" />
       <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
@@ -198,13 +182,13 @@
       <useClassPathOnly />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class01.*" />
+          <option name="PATTERN" value="com.syntax.class01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="SUITE_NAME" value="" />
       <option name="PACKAGE_NAME" value="class01" />
-      <option name="MAIN_CLASS_NAME" value="class01.Logintest" />
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class01.Logintest" />
       <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
@@ -225,13 +209,13 @@
       <useClassPathOnly />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class01.*" />
+          <option name="PATTERN" value="com.syntax.class01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="SUITE_NAME" value="" />
       <option name="PACKAGE_NAME" value="class01" />
-      <option name="MAIN_CLASS_NAME" value="class01.PreAndPostConditioinAnnotation" />
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class01.PreAndPostConditioinAnnotation" />
       <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
@@ -242,7 +226,9 @@
       </option>
       <option name="PROPERTIES_FILE" value="" />
       <properties />
-      <listeners />
+      <listeners>
+        <listener class="org.testng.reporters.EmailableReporter" />
+      </listeners>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -252,13 +238,13 @@
       <useClassPathOnly />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class02.*" />
+          <option name="PATTERN" value="com.syntax.class02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="SUITE_NAME" value="" />
       <option name="PACKAGE_NAME" value="class02" />
-      <option name="MAIN_CLASS_NAME" value="class02.SoftAssertionDemo" />
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class02.SoftAssertionDemo" />
       <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
@@ -293,13 +279,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="TestNG.DependOnDemo" />
+      <item itemvalue="TestNG.HW" />
+      <item itemvalue="TestNG.Logintest" />
+      <item itemvalue="TestNG.PreAndPostConditioinAnnotation" />
+      <item itemvalue="TestNG.SoftAssertionDemo" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.PreAndPostConditioinAnnotation" />
+        <item itemvalue="TestNG.Logintest" />
         <item itemvalue="TestNG.DependOnDemo" />
         <item itemvalue="TestNG.HW" />
         <item itemvalue="TestNG.SoftAssertionDemo" />
-        <item itemvalue="TestNG.Logintest" />
-        <item itemvalue="TestNG.PreAndPostConditioinAnnotation" />
       </list>
     </recent_temporary>
   </component>
@@ -334,30 +327,42 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="661" y="73" key="#Plugins/0.0.1536.834@0.0.1536.834" timestamp="1608956328706" />
-    <state x="111" y="3" width="1089" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608956483166">
+    <state x="111" y="3" width="1089" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609005315906">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="111" y="3" width="1089" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1608956483166" />
+    <state x="111" y="3" width="1089" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1609005315906" />
+    <state x="386" y="149" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1609005312227">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="386" y="149" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.834@0.0.1536.834" timestamp="1609005312227" />
+    <state x="918" y="402" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1609087169133">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="918" y="402" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1536.834@0.0.1536.834" timestamp="1609087169133" />
     <state x="360" y="158" key="FileChooserDialogImpl" timestamp="1608947325666">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="360" y="158" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1608947325666" />
-    <state width="732" height="274" key="GridCell.Tab.0.bottom" timestamp="1608951720302">
+    <state x="0" y="286" key="FileDocumentManager.FileCacheConflict" timestamp="1609004389178">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="732" height="274" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1608951720302" />
-    <state width="732" height="274" key="GridCell.Tab.0.center" timestamp="1608951720302">
+    <state x="0" y="286" key="FileDocumentManager.FileCacheConflict/0.0.1536.834@0.0.1536.834" timestamp="1609004389178" />
+    <state width="1493" height="172" key="GridCell.Tab.0.bottom" timestamp="1608998672802">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="732" height="274" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1608951720302" />
-    <state width="732" height="274" key="GridCell.Tab.0.left" timestamp="1608951720301">
+    <state width="1493" height="172" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1608998672802" />
+    <state width="1493" height="172" key="GridCell.Tab.0.center" timestamp="1608998672802">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="732" height="274" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1608951720301" />
-    <state width="732" height="274" key="GridCell.Tab.0.right" timestamp="1608951720302">
+    <state width="1493" height="172" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1608998672802" />
+    <state width="1493" height="172" key="GridCell.Tab.0.left" timestamp="1608998672801">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="732" height="274" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1608951720302" />
+    <state width="1493" height="172" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1608998672801" />
+    <state width="1493" height="172" key="GridCell.Tab.0.right" timestamp="1608998672802">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="172" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1608998672802" />
     <state x="136" y="0" key="SettingsEditor" timestamp="1608956206477">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
